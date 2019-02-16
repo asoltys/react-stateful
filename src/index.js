@@ -99,5 +99,6 @@ export const initStore: Function = (store, ...middlewares) => {
     getState,
     connect,
     subscribe,
+    Context
   }
 }
